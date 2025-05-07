@@ -1,4 +1,16 @@
-# Forecasting-House-Prices
+# Forecasting House Prices Accurately Using Smart Regression Techniques
+
+This project focuses on predicting house prices using advanced regression models like **Random Forest** and **Support Vector Machine (SVM)**. Implemented in **Python** and executed on **Google Colab**, the aim is to deliver a robust, scalable model with high accuracy.
+
+## Table of Contents
+
+- [Problem Statement](#problem-statement)
+- [Technologies Used](#technologies-used)
+- [Dataset](#dataset)
+- [Approach](#approach)
+- [Model Evaluation](#model-evaluation)
+- [Google Colab Link](#google-colab-link)
+- [Team Credits](#team-credits)
 ## Problem Statement
 
 Accurate prediction of house prices is crucial in real estate decision-making. The goal of this project is to build a data-driven regression model that forecasts house prices based on multiple property features.
